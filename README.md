@@ -33,6 +33,7 @@ The dataset contains information on COVID-19 cases and deaths reported by the WH
   - `pandas`: For data manipulation and cleaning.
   - `matplotlib` and `seaborn`: For data visualization.
   - `numpy`: For numerical operations.
+  - `scikitlearn`: For calculating correlation among all integer columns
 
 ---
 
